@@ -1,0 +1,47 @@
+https://edition.cnn.com/2025/10/28/tech/nvidia-gtc-ai-conference-jensen-huang
+
+Nvidia, already the world leader in chips crucial for artificial intelligence, wants to make its technology central to everyday life.
+
+That means everything from cell phone towers to robotic factories to self-driving cars, Nvidia CEO Jensen Huang announced in his first-ever keynote address at the company’s GTC AI conference in Washington, DC, on Tuesday.
+
+With AI already playing a major role in consumers’ lives and the economy, that kind of ubiquity would cement Nvidia’s role in a tech arms race now spanning the globe.
+
+Nvidia’s at a critical juncture. It has partnered with the world’s top companies, has the ear of President Donald Trump and became the first public firm to reach a $4 trillion valuation over the summer. But it’s also navigating a bevy of challenges, including escalating concerns about whether the AI market is a bubble waiting to burst, growing competition from rival chipmakers AMD and Qualcomm and trade restrictions.
+
+In the face of that competition, Nvidia is sending a clear message: While its semiconductors power most of the world’s AI data centers, the company does way more than just design chips.
+
+Huang also told CNN he doesn’t believe there is an AI bubble. He argued that people’s willingness to pay for AI tools indicates that the technology is “profitable,” even if most tech firms are now reinvesting the money they’re earning into new infrastructure.
+
+“AI is now profitable, meaning AIs are now so good that they deserve to be paid for,” he said.
+
+The chipmaker’s stock (NVDA) ended up nearly 5% on Tuesday.
+
+Nvidia’s plans to power the AI era
+Nvidia on Tuesday said it’s releasing a blueprint for how other firms should build massive, “gigascale” AI data centers, which it calls “AI factories,” the likes of which Oracle, Microsoft, Google and other leading tech firms are investing billions in. The most powerful and efficient of those, the company says, will include Nvidia chips and software. A new Nvidia AI Factory Research Center in Virginia will use that technology.
+
+But Tuesday’s updates go far beyond data centers.
+
+Nvidia announced a partnership with telecom firms T-Mobile and Nokia to build “AI-native” 6G cell phone towers, the next generation of wireless technology. The system will use a new Nvidia product, the Aerial RAN computer, that includes its chips and software. When deployed, the technology is expected to provide a faster, more powerful connection for cell phones and a range of other AI devices, such as speakers, glasses and, eventually, robots.
+
+“Wireless technology around the world, largely today, is deployed on foreign technologies … that has to stop, and we have an opportunity to do that, especially during this fundamental platform shift” to 6G, Huang said.
+
+Nvidia plans to help build 100,000 self-driving cars in partnership with Uber staring in 2027 — using Nvidia’s chips and “DriveOS” autonomous vehicle operating system — so more people around the country can get rides from robotaxis.
+
+It’s providing Palantir with computing power and AI models to help companies build AI agents and systems to automate processes. Lowe’s, for example, will use the tech to create a digital replica of its global supply chain to find opportunities for greater efficiency and cost savings.
+
+With Siemens, Nvidia is releasing technology to make “digital twins” of robotic factories. Companies that use it to design, operate and monitor the work of robots doing “dangerous jobs” while helping to fill half a million manufacturing job openings, according to the chipmaker.
+
+Nvidia is also partnering with the US Department of Energy to build seven new quantum supercomputers with its AI chips to advance the agency’s scientific research.
+
+Nvidia has framed the current AI era as the next industrial revolution, but most companies that have deployed AI tools aren’t yet seeing a return on that investment, MIT said in an August report. And some of the technologies the company is betting on, such as smart glasses and self-driving cars, haven’t yet been widely adopted.
+
+Pushing for American tech leadership
+The conference’s location in Washington, DC, is no accident. Huang has become a central figure in Trump’s push for the US to dominate AI, and that sentiment was on full display during the keynote — where congressional staffers were offered a special entrance.
+
+“The first thing that President Trump asked me for is (to) bring manufacturing back, bring manufacturing back because it’s necessary for national security,” Huang said, adding the company’s AI Blackwell chips are now “in full production” in Arizona, although they must be packaged (a final assembly step) abroad.
+
+Huang is set to meet with Trump in South Korea this week during the president’s visit for the Asia-Pacific Economic Cooperation Summit.
+
+Nvidia said in August it was seeking clarity from the White House on how it could restart sales of its advanced AI chips to China, after agreeing to pay the US government 15% of its China revenues earlier this year. On Tuesday, Huang said the White House has approved sales of its chips to China, but Beijing is now blocking those sales.
+
+Huang borrowed from Trump to close out his keynote: “Thank you all for your service in making America great again.”

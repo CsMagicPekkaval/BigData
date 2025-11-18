@@ -1,0 +1,9 @@
+(1)  ['2025', '2027']
+(2)  ['5%', '15%']
+(3)  ['100,000']
+(4)  ['$4 trillion']
+(5)  ['6G', '6G']
+(6)  ['NVDA']
+(7)  ['using Nvidia’s chips and “DriveOS” autonomous vehicle operating system — so more people around the country can get rides from robotaxis', 'where congressional staffers were offered a special entrance'] 
+
+(8)  ['in Washington', 'in Virginia', 'in Washington', 'in Trump', 'in Arizona', 'in South', 'in August'] 
